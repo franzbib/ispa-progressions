@@ -1,0 +1,380 @@
+{
+  "version": 3,
+  "timestamp": 1757450006653,
+  "lastModified": 1757450006653,
+  "deviceId": "device-1757445935524-chjco9u1iyn",
+  "progressionKey": "progA2B1",
+  "rows": [
+    {
+      "label": "01",
+      "type": "week"
+    },
+    {
+      "label": "02",
+      "type": "week"
+    },
+    {
+      "label": "03",
+      "type": "week"
+    },
+    {
+      "label": "04",
+      "type": "week"
+    },
+    {
+      "label": "Vacances",
+      "type": "vac"
+    },
+    {
+      "label": "Vacances",
+      "type": "vac"
+    },
+    {
+      "label": "05",
+      "type": "week"
+    },
+    {
+      "label": "06",
+      "type": "week"
+    },
+    {
+      "label": "07",
+      "type": "week"
+    },
+    {
+      "label": "08",
+      "type": "week"
+    },
+    {
+      "label": "09",
+      "type": "week"
+    },
+    {
+      "label": "10",
+      "type": "week"
+    },
+    {
+      "label": "11",
+      "type": "week"
+    },
+    {
+      "label": "Vacances",
+      "type": "vac"
+    },
+    {
+      "label": "12",
+      "type": "week"
+    },
+    {
+      "label": "13",
+      "type": "week"
+    },
+    {
+      "label": "14",
+      "type": "week"
+    },
+    {
+      "label": "15",
+      "type": "week"
+    },
+    {
+      "label": "16",
+      "type": "week"
+    },
+    {
+      "label": "17",
+      "type": "week"
+    },
+    {
+      "label": "18",
+      "type": "week"
+    },
+    {
+      "label": "19",
+      "type": "week"
+    },
+    {
+      "label": "20",
+      "type": "week"
+    },
+    {
+      "label": "21",
+      "type": "week"
+    },
+    {
+      "label": "22",
+      "type": "week"
+    },
+    {
+      "label": "23",
+      "type": "week"
+    },
+    {
+      "label": "24",
+      "type": "week"
+    },
+    {
+      "label": "25",
+      "type": "week"
+    },
+    {
+      "label": "26",
+      "type": "week"
+    },
+    {
+      "label": "27",
+      "type": "week"
+    },
+    {
+      "label": "28",
+      "type": "week"
+    },
+    {
+      "label": "29",
+      "type": "week"
+    },
+    {
+      "label": "30",
+      "type": "week"
+    },
+    {
+      "label": "31",
+      "type": "week"
+    },
+    {
+      "label": "32",
+      "type": "week"
+    },
+    {
+      "label": "33",
+      "type": "week"
+    },
+    {
+      "label": "34",
+      "type": "week"
+    },
+    {
+      "label": "35",
+      "type": "week"
+    },
+    {
+      "label": "36",
+      "type": "week"
+    },
+    {
+      "label": "37",
+      "type": "week"
+    },
+    {
+      "label": "38",
+      "type": "week"
+    },
+    {
+      "label": "39",
+      "type": "week"
+    },
+    {
+      "label": "40",
+      "type": "week"
+    },
+    {
+      "label": "41",
+      "type": "week"
+    },
+    {
+      "label": "42",
+      "type": "week"
+    },
+    {
+      "label": "43",
+      "type": "week"
+    },
+    {
+      "label": "44",
+      "type": "week"
+    },
+    {
+      "label": "45",
+      "type": "week"
+    },
+    {
+      "label": "46",
+      "type": "week"
+    },
+    {
+      "label": "47",
+      "type": "week"
+    },
+    {
+      "label": "48",
+      "type": "week"
+    },
+    {
+      "label": "49",
+      "type": "week"
+    },
+    {
+      "label": "50",
+      "type": "week"
+    }
+  ],
+  "cells": {
+    "r1c1": [
+      "custom-mfcu4wyf-akxy"
+    ],
+    "r2c1": [
+      "custom-mfcu54hb-1bsg"
+    ],
+    "r3c1": [
+      "custom-mfcu57rb-ds29"
+    ],
+    "r4c1": [
+      "custom-mfcu5bun-ih4w"
+    ],
+    "r7c1": [
+      "custom-mfcu5hrr-3r43"
+    ],
+    "r8c1": [
+      "custom-mfcu5llr-bpqw"
+    ],
+    "r9c1": [
+      "custom-mfcu5pfb-4oqn"
+    ],
+    "r10c1": [
+      "custom-mfcu5s7b-ls50"
+    ],
+    "r11c1": [
+      "custom-mfcu5w2n-tbta"
+    ],
+    "r12c1": [
+      "custom-mfcu5zv3-k31y"
+    ],
+    "r13c1": [
+      "custom-mfcu63un-le35"
+    ],
+    "r9c2": [
+      "custom-mfcum17g-oswq",
+      "custom-mfcum8lg-csr8",
+      "custom-mfcumicc-fnr4",
+      "custom-mfcumpsy-vdik"
+    ],
+    "r8c2": [
+      "custom-mfcukzsk-d6yp",
+      "custom-mfcul6gw-wt4b",
+      "custom-mfcule7p-7zkx",
+      "custom-mfculk02-i49d"
+    ],
+    "r7c2": [
+      "custom-mfcujzlj-sdoe",
+      "custom-mfcuk98s-gv66",
+      "custom-mfcukfqm-qbxd",
+      "custom-mfcukm2s-tqg4"
+    ],
+    "r4c2": [
+      "custom-mfcuiwoy-1p30",
+      "custom-mfcuj6po-up6g",
+      "custom-mfcujdi0-3gym",
+      "custom-mfcujnng-39od"
+    ],
+    "r3c2": [
+      "custom-mfcuhyje-xnqt",
+      "custom-mfcui5ao-ptkj",
+      "custom-mfcuicu0-fp8d",
+      "custom-mfcuik2m-esgu"
+    ],
+    "r1c2": [
+      "custom-mfcuae28-7e5m",
+      "custom-mfcuaooa-gbgz",
+      "custom-mfcufw1y-qdg9",
+      "custom-mfcugb0d-7dxh"
+    ],
+    "r2c2": [
+      "custom-mfcuglyc-5cap",
+      "custom-mfcugrdc-2u86",
+      "custom-mfcuh0wu-aidz",
+      "custom-mfcuh5iq-wkf7"
+    ],
+    "r10c2": [
+      "custom-mfcumyo4-28rs",
+      "custom-mfcun8el-43on",
+      "custom-mfcunexk-5eg7",
+      "custom-mfcunnvu-dnpt"
+    ],
+    "r11c2": [
+      "custom-mfcuny4u-unkq",
+      "custom-mfcuo634-asfj",
+      "custom-mfcuocx8-n66e",
+      "custom-mfcuol5u-aqyn"
+    ],
+    "r12c2": [
+      "custom-mfcuovkg-tu25",
+      "custom-mfcup0zg-d0ol",
+      "custom-mfcup7o4-xnlv",
+      "custom-mfcupep6-k0p7"
+    ],
+    "r13c2": [
+      "custom-mfcuppka-ems2",
+      "custom-mfcupvvo-4aif",
+      "custom-mfcuq2au-805s",
+      "custom-mfcuq9fm-60x9"
+    ]
+  },
+  "bank": [],
+  "custom": {
+    "custom-mfcu4wyf-akxy": "Se présenter",
+    "custom-mfcu54hb-1bsg": "La gastronomie",
+    "custom-mfcu57rb-ds29": "La musique",
+    "custom-mfcu5bun-ih4w": "Les études",
+    "custom-mfcu5hrr-3r43": "La mode",
+    "custom-mfcu5llr-bpqw": "Le cinéma",
+    "custom-mfcu5pfb-4oqn": "Les médias",
+    "custom-mfcu5s7b-ls50": "La santé",
+    "custom-mfcu5w2n-tbta": "La famille",
+    "custom-mfcu5zv3-k31y": "Le calendrier",
+    "custom-mfcu63un-le35": "La peinture",
+    "custom-mfcuae28-7e5m": "Présent de l’indicatif (révision des verbes être, avoir, s’appeler, venir, habiter…)",
+    "custom-mfcuaooa-gbgz": "Pronoms personnels sujets",
+    "custom-mfcufw1y-qdg9": "Adjectifs qualificatifs (accords, place)",
+    "custom-mfcugb0d-7dxh": "Interrogatives simples (intonation, est-ce que, inversion basique)",
+    "custom-mfcuglyc-5cap": "Articles définis / indéfinis / partitifs",
+    "custom-mfcugrdc-2u86": "Expressions de quantité (beaucoup de, un peu de, trop de…)",
+    "custom-mfcuh0wu-aidz": "Négation simple (ne… pas) et restrictive (ne… que)",
+    "custom-mfcuh5iq-wkf7": "Pronoms COD (le, la, les)",
+    "custom-mfcuhyje-xnqt": "Imparfait (habitudes musicales, description d’ambiances)",
+    "custom-mfcui5ao-ptkj": "Passé composé (événements musicaux vécus)",
+    "custom-mfcuicu0-fp8d": "Différence imparfait / passé composé",
+    "custom-mfcuik2m-esgu": "Pronoms Y et EN (j’y vais, j’en joue)",
+    "custom-mfcuiwoy-1p30": "Futur proche et futur simple (projets d’études)",
+    "custom-mfcuj6po-up6g": "Pronom ON (valeur générale, vie étudiante)",
+    "custom-mfcujdi0-3gym": "Pronoms COI (lui, leur)",
+    "custom-mfcujnng-39od": "Adverbes de fréquence (toujours, souvent, rarement…)",
+    "custom-mfcujzlj-sdoe": "Comparatif et superlatif (plus élégant que, le plus chic)",
+    "custom-mfcuk98s-gv66": "Pronoms démonstratifs (celui-ci, celle-là)",
+    "custom-mfcukfqm-qbxd": "Adjectifs indéfinis (chaque, certains, tous)",
+    "custom-mfcukm2s-tqg4": "Structures emphatiques (c’est… qui / c’est… que)",
+    "custom-mfcukzsk-d6yp": "Pronoms relatifs simples (qui, que, où, dont)",
+    "custom-mfcul6gw-wt4b": "Pronoms relatifs composés (lequel, auquel, duquel)",
+    "custom-mfcule7p-7zkx": "Connecteurs temporels (d’abord, ensuite, puis, enfin)",
+    "custom-mfculk02-i49d": "Discours indirect au présent",
+    "custom-mfcum17g-oswq": "Discours indirect au passé",
+    "custom-mfcum8lg-csr8": "Concordance des temps (présent/passé dans les propos rapportés)",
+    "custom-mfcumicc-fnr4": "Voix passive (les informations sont diffusées par…)",
+    "custom-mfcumpsy-vdik": "Connecteurs logiques (cause, conséquence, opposition)",
+    "custom-mfcumyo4-28rs": "Impératif (donner un conseil, une interdiction)",
+    "custom-mfcun8el-43on": "Négation complexe (ne… jamais, ne… plus, ne… aucun)",
+    "custom-mfcunexk-5eg7": "Conditionnel présent (je voudrais, il faudrait)",
+    "custom-mfcunnvu-dnpt": "Structures hypothétiques (si + présent → futur / si + imparfait → conditionnel)",
+    "custom-mfcuny4u-unkq": "Pronoms toniques (moi, toi, lui, elle, nous…)",
+    "custom-mfcuo634-asfj": "Possessifs (le mien, la tienne, les leurs…)",
+    "custom-mfcuocx8-n66e": "Pronoms indéfinis (quelqu’un, personne, chacun)",
+    "custom-mfcuol5u-aqyn": "Organisation syntaxique de la phrase complexe (coordination et subordination simples)",
+    "custom-mfcuovkg-tu25": "Expression temporelle (depuis, pendant, il y a, dans…)",
+    "custom-mfcup0zg-d0ol": "Plus-que-parfait (antériorité)",
+    "custom-mfcup7o4-xnlv": "Futur antérieur (notion d’anticipation)",
+    "custom-mfcupep6-k0p7": "Concordance des temps (révision dans le récit)",
+    "custom-mfcuppka-ems2": "Vocabulaire descriptif : adjectifs attributs et épithètes",
+    "custom-mfcupvvo-4aif": "Subjonctif présent (jugement, appréciation : je trouve dommage que…)",
+    "custom-mfcuq2au-805s": "Gérondif (en + participe présent : en observant…)",
+    "custom-mfcuq9fm-60x9": "Participe présent / adjectif verbal (intéressant, passionnant)"
+  }
+}

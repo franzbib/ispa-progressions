@@ -1,0 +1,644 @@
+{
+  "version": 3,
+  "timestamp": 1757449997236,
+  "lastModified": 1757449997235,
+  "deviceId": "device-1757445935524-chjco9u1iyn",
+  "progressionKey": "progB1B2",
+  "rows": [
+    {
+      "label": "01",
+      "type": "week"
+    },
+    {
+      "label": "02",
+      "type": "week"
+    },
+    {
+      "label": "03",
+      "type": "week"
+    },
+    {
+      "label": "04",
+      "type": "week"
+    },
+    {
+      "label": "Vacances",
+      "type": "vac"
+    },
+    {
+      "label": "Vacances",
+      "type": "vac"
+    },
+    {
+      "label": "05",
+      "type": "week"
+    },
+    {
+      "label": "06",
+      "type": "week"
+    },
+    {
+      "label": "07",
+      "type": "week"
+    },
+    {
+      "label": "08",
+      "type": "week"
+    },
+    {
+      "label": "09",
+      "type": "week"
+    },
+    {
+      "label": "10",
+      "type": "week"
+    },
+    {
+      "label": "11",
+      "type": "week"
+    },
+    {
+      "label": "Vacances",
+      "type": "vac"
+    },
+    {
+      "label": "12",
+      "type": "week"
+    },
+    {
+      "label": "13",
+      "type": "week"
+    },
+    {
+      "label": "14",
+      "type": "week"
+    },
+    {
+      "label": "15",
+      "type": "week"
+    },
+    {
+      "label": "16",
+      "type": "week"
+    },
+    {
+      "label": "Vacances",
+      "type": "vac"
+    },
+    {
+      "label": "Vacances",
+      "type": "vac"
+    },
+    {
+      "label": "17",
+      "type": "week"
+    },
+    {
+      "label": "18",
+      "type": "week"
+    },
+    {
+      "label": "19",
+      "type": "week"
+    },
+    {
+      "label": "20",
+      "type": "week"
+    },
+    {
+      "label": "21",
+      "type": "week"
+    },
+    {
+      "label": "22",
+      "type": "week"
+    },
+    {
+      "label": "23",
+      "type": "week"
+    },
+    {
+      "label": "24",
+      "type": "week"
+    },
+    {
+      "label": "25",
+      "type": "week"
+    },
+    {
+      "label": "26",
+      "type": "week"
+    },
+    {
+      "label": "27",
+      "type": "week"
+    },
+    {
+      "label": "28",
+      "type": "week"
+    },
+    {
+      "label": "29",
+      "type": "week"
+    },
+    {
+      "label": "30",
+      "type": "week"
+    },
+    {
+      "label": "31",
+      "type": "week"
+    },
+    {
+      "label": "32",
+      "type": "week"
+    },
+    {
+      "label": "33",
+      "type": "week"
+    },
+    {
+      "label": "Vacances",
+      "type": "vac"
+    },
+    {
+      "label": "Vacances",
+      "type": "vac"
+    },
+    {
+      "label": "34",
+      "type": "week"
+    },
+    {
+      "label": "35",
+      "type": "week"
+    },
+    {
+      "label": "36",
+      "type": "week"
+    },
+    {
+      "label": "37",
+      "type": "week"
+    },
+    {
+      "label": "38",
+      "type": "week"
+    },
+    {
+      "label": "39",
+      "type": "week"
+    },
+    {
+      "label": "40",
+      "type": "week"
+    },
+    {
+      "label": "41",
+      "type": "week"
+    },
+    {
+      "label": "42",
+      "type": "week"
+    },
+    {
+      "label": "43",
+      "type": "week"
+    },
+    {
+      "label": "44",
+      "type": "week"
+    },
+    {
+      "label": "45",
+      "type": "week"
+    },
+    {
+      "label": "46",
+      "type": "week"
+    },
+    {
+      "label": "47",
+      "type": "week"
+    },
+    {
+      "label": "48",
+      "type": "week"
+    },
+    {
+      "label": "49",
+      "type": "week"
+    },
+    {
+      "label": "50",
+      "type": "week"
+    }
+  ],
+  "cells": {
+    "r1c1": [
+      "theme-0"
+    ],
+    "r1c2": [
+      "custom-mfatxpgj-mtf7",
+      "custom-mfatyr5q-e8n7",
+      "custom-mfatz8l8-lu3d"
+    ],
+    "r2c1": [
+      "theme-1"
+    ],
+    "r2c2": [
+      "chip-48",
+      "custom-mfau08nv-d88v",
+      "custom-mfau1fen-4vy0"
+    ],
+    "r3c1": [
+      "theme-2"
+    ],
+    "r3c2": [
+      "custom-mf586mnn-ijec",
+      "chip-23",
+      "custom-mfau29fj-oi7a"
+    ],
+    "r4c1": [
+      "theme-3"
+    ],
+    "r4c2": [
+      "custom-mf53ryg3-hrgt",
+      "custom-mfau4bea-c3wh",
+      "custom-mfau4gdm-vlp7"
+    ],
+    "r5c1": [
+      "custom-mf57jjnd-wp61"
+    ],
+    "r5c2": [],
+    "r6c1": [],
+    "r6c2": [],
+    "r7c1": [
+      "theme-5"
+    ],
+    "r7c2": [
+      "custom-mf53u3l8-gxas",
+      "custom-mf58cxfn-7m4p"
+    ],
+    "r8c1": [
+      "theme-6"
+    ],
+    "r8c2": [
+      "chip-38",
+      "custom-mf53uz2p-a04m",
+      "custom-mfau7bd2-d3xi",
+      "custom-mfau8ig7-mzey"
+    ],
+    "r9c1": [
+      "theme-7"
+    ],
+    "r9c2": [
+      "chip-37",
+      "custom-mf53z10u-b2so",
+      "custom-mf53uj2l-3ikw"
+    ],
+    "r10c1": [
+      "theme-8"
+    ],
+    "r10c2": [
+      "custom-mfaubksd-fey6",
+      "custom-mf5407di-jztc"
+    ],
+    "r11c1": [
+      "theme-9"
+    ],
+    "r11c2": [
+      "custom-mf542aqp-39sc",
+      "custom-mf542xfy-3zjd",
+      "custom-mf543bdq-ziw2"
+    ],
+    "r12c1": [
+      "theme-10"
+    ],
+    "r12c2": [
+      "custom-mf544o25-49dr",
+      "custom-mf545fj2-ugmb"
+    ],
+    "r13c1": [
+      "theme-11"
+    ],
+    "r13c2": [
+      "chip-14",
+      "custom-mf54p9yj-i52h"
+    ],
+    "r14c1": [],
+    "r14c2": [],
+    "r15c1": [
+      "theme-12"
+    ],
+    "r15c2": [
+      "custom-mfauzt3p-qk9y",
+      "custom-mfav5ow8-0zkt"
+    ],
+    "r16c1": [
+      "theme-13"
+    ],
+    "r16c2": [
+      "custom-mfaw2fjc-dbqu",
+      "custom-mfav89ze-y2tc",
+      "custom-mf54cg5f-vr0a",
+      "custom-mfaxmo88-xnx1"
+    ],
+    "r17c1": [
+      "theme-14"
+    ],
+    "r17c2": [
+      "chip-28",
+      "custom-mf55mj5j-celb"
+    ],
+    "r18c1": [
+      "theme-15"
+    ],
+    "r18c2": [
+      "custom-mfawl7ws-6bwn",
+      "custom-mf54juqt-6byc",
+      "custom-mf54jail-csvw"
+    ],
+    "r19c1": [
+      "theme-16"
+    ],
+    "r19c2": [
+      "custom-mf54msgr-xfr5"
+    ],
+    "r20c1": [],
+    "r20c2": [],
+    "r21c1": [],
+    "r21c2": [],
+    "r22c1": [
+      "theme-17"
+    ],
+    "r22c2": [
+      "chip-22",
+      "chip-29",
+      "chip-27",
+      "chip-35",
+      "chip-43"
+    ],
+    "r23c1": [
+      "theme-18"
+    ],
+    "r23c2": [
+      "custom-mfaw45pt-p5os",
+      "custom-mfaw5ser-nzsq",
+      "custom-mf54wfu7-vkea",
+      "custom-mfaw78b7-mrv7"
+    ],
+    "r24c1": [
+      "theme-19"
+    ],
+    "r24c2": [
+      "custom-mf550ie7-9gv4",
+      "custom-mf5865f2-cni1",
+      "custom-mf58chud-4b2p",
+      "custom-mfauh4df-0hng",
+      "custom-mfaujiqk-ar6t"
+    ],
+    "r25c1": [
+      "theme-20"
+    ],
+    "r25c2": [
+      "chip-0",
+      "chip-31",
+      "custom-mfaxd2v3-bazg"
+    ],
+    "r26c1": [
+      "theme-21"
+    ],
+    "r26c2": [
+      "custom-mf55ft87-l8kq",
+      "chip-40",
+      "custom-mf53wi67-murl"
+    ],
+    "r27c1": [
+      "theme-22"
+    ],
+    "r27c2": [
+      "custom-mf55nc41-z23n"
+    ],
+    "r28c1": [
+      "theme-23"
+    ],
+    "r28c2": [
+      "custom-mfaurz9k-dlmg",
+      "chip-49"
+    ],
+    "r29c1": [
+      "theme-24"
+    ],
+    "r29c2": [
+      "chip-21",
+      "chip-45"
+    ],
+    "r30c1": [
+      "theme-25"
+    ],
+    "r30c2": [
+      "chip-44",
+      "custom-mf548nl6-8898",
+      "chip-4"
+    ],
+    "r31c1": [
+      "theme-26"
+    ],
+    "r31c2": [
+      "chip-8",
+      "chip-26"
+    ],
+    "r35c1": [
+      "theme-27"
+    ],
+    "r35c2": [
+      "chip-33",
+      "custom-mf55vqk5-k6xi"
+    ],
+    "r33c1": [
+      "theme-28"
+    ],
+    "r33c2": [
+      "chip-41",
+      "custom-mf55x55o-135w"
+    ],
+    "r34c1": [
+      "theme-29"
+    ],
+    "r34c2": [
+      "custom-mf55ylur-t58g"
+    ],
+    "r32c1": [
+      "theme-30"
+    ],
+    "r32c2": [
+      "custom-mf56b53q-h64k",
+      "custom-mf57dz4g-rzvd",
+      "custom-mfaxj3ll-qkon"
+    ],
+    "r36c1": [
+      "custom-mf56elbt-lzcg"
+    ],
+    "r36c2": [
+      "custom-mf57ehmh-oawb"
+    ],
+    "r37c1": [
+      "custom-mf56nt3h-tqs3"
+    ],
+    "r37c2": [
+      "custom-mf57f539-5c0i"
+    ],
+    "r38c1": [
+      "custom-mfcvsycl-ygmi"
+    ],
+    "r38c2": [
+      "custom-mf57fl9e-53uc",
+      "custom-mf57fsa9-t7gm"
+    ],
+    "r39c1": [],
+    "r39c2": [],
+    "r40c1": [],
+    "r40c2": [],
+    "r41c1": [],
+    "r41c2": [],
+    "r42c1": [],
+    "r42c2": [],
+    "r43c1": [],
+    "r43c2": [],
+    "r44c1": [],
+    "r44c2": [],
+    "r45c1": [],
+    "r45c2": [],
+    "r46c1": [
+      "theme-34"
+    ],
+    "r46c2": [],
+    "r47c1": [
+      "theme-37"
+    ],
+    "r47c2": [],
+    "r48c1": [
+      "theme-36"
+    ],
+    "r48c2": [],
+    "r49c1": [
+      "custom-mf57msdx-gmrs"
+    ],
+    "r49c2": [],
+    "r50c1": [
+      "custom-mf57myaz-4a3r"
+    ],
+    "r50c2": [],
+    "r51c1": [
+      "custom-mf57n5ym-rhu4"
+    ],
+    "r51c2": [],
+    "r52c1": [
+      "custom-mf57nckp-8627"
+    ],
+    "r52c2": [],
+    "r53c1": [
+      "custom-mf57nin9-f340"
+    ],
+    "r53c2": [],
+    "r54c1": [
+      "custom-mf57nptz-4qqw"
+    ],
+    "r54c2": [],
+    "r55c1": [
+      "custom-mf57oayk-gp18"
+    ],
+    "r55c2": [],
+    "r56c1": [
+      "custom-mf57oef1-dk4i"
+    ],
+    "r56c2": [],
+    "r57c1": [
+      "custom-mf57oiwo-l79z"
+    ],
+    "r57c2": []
+  },
+  "bank": [],
+  "custom": {
+    "custom-mfatxpgj-mtf7": "Déterminants (définis, indéfinis, partitifs) PO",
+    "custom-mfatyr5q-e8n7": "Pronoms possessifs (le mien, la tienne...) CO",
+    "custom-mfatz8l8-lu3d": "Pronoms démonstratifs (celui, celle, ceux...) CO",
+    "custom-mfau08nv-d88v": "Pronoms relatifs simples (qui, que, où, dont) CE",
+    "custom-mfau1fen-4vy0": "Pronoms relatifs composés (lequel, auquel, duquel...)",
+    "custom-mf586mnn-ijec": "Les articulateurs chronologiques du discours (d'abord, ensuite, enﬁn/premièrement, deuxièmement…) CO",
+    "custom-mfau29fj-oi7a": "Discours indirect au présent (CO)",
+    "custom-mf53ryg3-hrgt": "REVISION - REMEDIATION des temps simples et du passé composé",
+    "custom-mfau4bea-c3wh": "Futur proche (PO)",
+    "custom-mfau4gdm-vlp7": "Futur simple (PO)",
+    "custom-mf57jjnd-wp61": "PARIS CAPITALE",
+    "custom-mf53u3l8-gxas": "Les articulations logiques simples : cause, conséquence, opposition (donc, puisque, comme, alors, pourtant, alors que…) CO",
+    "custom-mf58cxfn-7m4p": "Accord du participe passé : être (avec le sujet) et avoir (avec le COD) CO",
+    "custom-mf53uz2p-a04m": "Donner son point de vue PO",
+    "custom-mfau7bd2-d3xi": "Comparatif des verbes et des adverbes PO",
+    "custom-mfau8ig7-mzey": "Superlatif de l'adjectif et de l'adverbe (le mieux, le meilleur...) PO",
+    "custom-mf53z10u-b2so": "Défendre un point de vue PE PO",
+    "custom-mf53uj2l-3ikw": "Nominalisation PE",
+    "custom-mfaubksd-fey6": "Conditionnel présent : le souhait, le désir, l'hypothèse (faits imaginaires) avec tu et vous PO Le conditionnel ou l'impératif : la prière PE",
+    "custom-mf5407di-jztc": "Donner un ordre (impératif) et des conseils (conditionnel, \"il faut que\"+subjonctif)",
+    "custom-mf542aqp-39sc": "Les chiffres, les dates, les chiffres romains",
+    "custom-mf542xfy-3zjd": "Révision temps du passé (PC, imparfait)",
+    "custom-mf543bdq-ziw2": "Le plus que parfait (formation et utilisation) CO",
+    "custom-mf544o25-49dr": "Négation et restriction (ne...que, ni...ni, sans+infinitif) PO",
+    "custom-mf545fj2-ugmb": "Tournures impersonnelles (il est interdit de..., il est utile de...) PE",
+    "custom-mf54p9yj-i52h": "REVISION - REMEDIATION (plus que parfait + points de grammaire)",
+    "custom-mfauzt3p-qk9y": "L'hypothèse certaine/sur le futur (la condition) : si + présent, futur PO CE",
+    "custom-mfav5ow8-0zkt": "L'hypothèse incertaine sur le présent : si + imparfait, conditionnel CE PO",
+    "custom-mfaw2fjc-dbqu": "Pronoms Y et EN (+verbes à préposition) CO",
+    "custom-mfav89ze-y2tc": "Verbes à prépositions (penser à, croire à/en, rêver de, décider de, agir sur…) CO",
+    "custom-mf54cg5f-vr0a": "Pronoms relatifs composés CO",
+    "custom-mfaxmo88-xnx1": "Modalité (Falloir + infinitif, Devoir + inﬁnitif : capacité, autorisation ou éventualité PE Pouvoir +inﬁnitif : obligation ou supposition) PE",
+    "custom-mf55mj5j-celb": "Les doubles pronoms CO",
+    "custom-mfawl7ws-6bwn": "Subjonctif présent (conjonctions + subjonctif ou indicatif) CO (conjonctions + subjonctif ou inﬁnitif) CO",
+    "custom-mf54juqt-6byc": "Révision des comparatifs (adjectifs, adverbes, verbes)",
+    "custom-mf54jail-csvw": "Les formes impersonnelles 2 (il est certain que..., il est possible que..., il semble que...) CO",
+    "custom-mf54msgr-xfr5": "REVISION - REMEDIATION (plus que parfait + points de grammaire)",
+    "custom-mfaw45pt-p5os": "Gérondif : la manière, la condition, la simultanéité CO",
+    "custom-mfaw5ser-nzsq": "Participe présent CE",
+    "custom-mf54wfu7-vkea": "Cause, conséquence, but",
+    "custom-mfaw78b7-mrv7": "Conditionnel passé : le regret, le reproche CE/PO",
+    "custom-mf550ie7-9gv4": "Révision repères spatio-temporels et adverbes de lieu CO",
+    "custom-mf5865f2-cni1": "Adverbes (quantité, fréquence, intensité, temps)",
+    "custom-mf58chud-4b2p": "Révision Accord du participe passé",
+    "custom-mfauh4df-0hng": "Expressions temporelles : les prépositions et expression de la durée (pendant, depuis), expression du moment (dans, il y a) et adverbes de temps (cela fait...que...) CO",
+    "custom-mfaujiqk-ar6t": "Expression de la durée (pendant que, depuis que, autant que, cela fait...que...) CO",
+    "custom-mfaxd2v3-bazg": "Le subjonctif : la possibilité, l'obligation CO La conjonction pour que + subjonctif CO Quelques verbes d'opinion + subjonctif CE Quelques verbes d'ordre + subjonctif PO Quelques verbes de sentiments + subjonctif CE",
+    "custom-mf55ft87-l8kq": "Les doubles pronoms CO",
+    "custom-mf53wi67-murl": "Adverbes de manière en _ment CE",
+    "custom-mf55nc41-z23n": "REVISION - REMEDIATION",
+    "custom-mfaurz9k-dlmg": "Concordance des temps (subordonnées) CO CE PE",
+    "custom-mf548nl6-8898": "Conjonctions + subjonctif",
+    "custom-mf55vqk5-k6xi": "Révision phrases nominales et phrases verbales",
+    "custom-mf55x55o-135w": "Révion des temps",
+    "custom-mf55ylur-t58g": "Le passif : La description d'une action/la mise en valeur du sujet de la phrase à la place du pronom on (quand on ne connait pas l'auteur de l'action), procédés pour effacer l'auteur d'une action CO",
+    "custom-mf56b53q-h64k": "La modalisation",
+    "custom-mf57dz4g-rzvd": "Les adjectifs accompagnés de prépositions (être heureux de, prêt à, sûr de, confiant en, remarquable par) CO",
+    "custom-mfaxj3ll-qkon": "Verbes + subjonctif ou indicatif CO Verbes + subjonctif ou inﬁnitif CO",
+    "custom-mf57ehmh-oawb": "L'antériorité, la simultanéité, la postériorité : concordance des temps et articulateurs logiques, le passé surcomposé : le passé dans le passé, le subjonctif passé CE",
+    "custom-mf57f539-5c0i": "Les verbes accompagnés de préposition : penser à, croire à/en, rêver de, décider de, agir sur",
+    "custom-mf57fl9e-53uc": "L'expression de l'hypothèse incertaine : si + imparfait/conditionnel présent ou passé PE",
+    "custom-mf57fsa9-t7gm": "L'expression de l'hypothèse non réalisée (le regret) : si + plus-que-parfait/conditionnel passé",
+    "custom-mf56elbt-lzcg": "VIE QUOTIDIENNE",
+    "custom-mf56nt3h-tqs3": "CONSOMMATION RESPONSABLE",
+    "custom-mf56nzx2-2rut": "VIE EN SOCIETE",
+    "custom-mf57jrn4-3c6s": "LES FETES ET LES CELEBRATIONS FRANCAISES",
+    "custom-mf57jvug-ojm9": "LES ARTS",
+    "custom-mf57k01r-7iir": "LE ROMANTISME",
+    "custom-mf57k5tq-h2ds": "LA FRANCOPHONIE",
+    "custom-mf57msdx-gmrs": "LE BIEN-ETRE",
+    "custom-mf57myaz-4a3r": "LES TEMPS LIBRES",
+    "custom-mf57n5ym-rhu4": "LE TOURISME DANS LES HAUTS DE FRANCE",
+    "custom-mf57nckp-8627": "LA LITTERATURE FRANCOPHONE",
+    "custom-mf57nin9-f340": "POUR UN MONDE MEILLEUR",
+    "custom-mf57nptz-4qqw": "LES FRANCAIS ET LES VACANCES",
+    "custom-mf57oayk-gp18": "LA NATURE : LES DIFFERENTS VISAGES DE LA FRANCE",
+    "custom-mf57oef1-dk4i": "VIVRE A AMIENS",
+    "custom-mf57oiwo-l79z": "ETRE JEUNE EN FRANCE",
+    "custom-mfcvsycl-ygmi": "La vie en société"
+  }
+}
